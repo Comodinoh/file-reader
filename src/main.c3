@@ -1,4 +1,4 @@
-module str_test;
+module file_reader;
 
 import std::io;
 import std::collections::list;
